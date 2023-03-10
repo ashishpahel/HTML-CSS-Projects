@@ -4,4 +4,4 @@ This repository contains projects build using HTML5 and CSS3. Information about 
 | Project No.   | Project Name  | Link for Live Demo    |
 | ------------- | ------------- | -------- |
 | 01          | Glassmorphic SignUp Page       | [Live Demo](https://glassmorphic-signup-page.netlify.app/)  |
-| 02          |          |   |
+| 02          |   Parallax Website       |  [Live Demo](https://parallax-website-1999.netlify.app/) |
